@@ -8,8 +8,7 @@ Dibalik user McGee314 adalah seorang pria tampan bernama Muhammad Samudera Bagja
  Saya menguasai berbagai teknologi seperti kamera, laptop, handphone.
 
 **Proyek yang saya akan kerjakan**
-
-  Saya pernah berproject kebanyakan dalam bidang photography dan videography, anda dapat melihatnya di akun instagram.com/m.samuderaa
+Saya pernah berproject kebanyakan dalam bidang photography dan videography, anda dapat melihatnya di akun instagram.com/m.samuderaa
   Dalam bidang program saya pernah membuat game TicTacToe dengan bahasa C
 
 **Cara menghubungi saya**
