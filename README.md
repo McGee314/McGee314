@@ -15,8 +15,8 @@ Dibalik user McGee314 adalah seorang pria tampan bernama Muhammad Samudera Bagja
 
 **Cara menghubungi saya**
 
-  -muhammad.samudera.tif423@polban.ac.id
-  -samuderabagja@gmail.com
+  - muhammad.samudera.tif423@polban.ac.id
+  - samuderabagja@gmail.com
 <!--
 **McGee314/McGee314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
