@@ -1,7 +1,8 @@
 ### Hi Everyone!!!
 
 
-**PERKENALAN**/n
+**PERKENALAN**
+
   Dibalik user McGee314 adalah seorang pria tampan bernama Muhammad Samudera Bagja.
 
 **Teknologi yang saya kuasai**
@@ -13,6 +14,7 @@
    Saya belum menuliskan detail proyek yang akan saya kerjakan. Mungkin Anda dapat menambahkan     beberapa informasi mengenai proyek-proyek yang sudah dikerjakan sebelumnya atau proyek-    proyek yang sedang direncanakan.
 
 **Cara menghubungi saya**
+
   Anda dapat menghubungi saya melalui email institusi saya yaitu 
     muhammad.samudera.tif423@polban.ac.id
   atau email pribadi saya 
