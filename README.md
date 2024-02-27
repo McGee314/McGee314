@@ -5,8 +5,7 @@
 Dibalik user McGee314 adalah seorang pria tampan bernama Muhammad Samudera Bagja.
 
 ****Teknologi yang saya kuasai****
-
-  Saya menguasai berbagai teknologi seperti kamera, laptop, handphone.
+ Saya menguasai berbagai teknologi seperti kamera, laptop, handphone.
 
 **Proyek yang saya akan kerjakan**
 
