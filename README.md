@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi Everyone!!!
 
+
+**PERKENALAN**
+  Dibalik user McGee314 adalah seorang pria tampan bernama Muhammad Samudera Bagja.
+
+**Teknologi yang saya kuasai**
+  Saya menguasai berbagai teknologi seperti kamera, laptop, handphone.
+
+**Proyek yang saya akan kerjakan**
+  Saya
+
+**Cara menghubungi saya**
+  Anda dapat menghubungi saya melalui email institusi saya yaitu 
+    muhammad.samudera.tif423@polban.ac.id
+  atau email pribadi saya 
+    samuderabagja@gmail.com
 <!--
 **McGee314/McGee314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
