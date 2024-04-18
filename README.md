@@ -1,22 +1,14 @@
 ### Hi Everyone!!!
 
 
-****PERKENALAN****
-Dibalik user McGee314 adalah seorang pria tampan bernama Muhammad Samudera Bagja.
-
-****Teknologi yang saya kuasai****
- Saya menguasai berbagai teknologi seperti kamera, laptop, handphone.
-
-**Proyek yang saya akan kerjakan**
-Saya pernah berproject kebanyakan dalam bidang photography dan videography, anda dapat melihatnya di akun instagram.com/m.samuderaa
-  Dalam bidang program saya pernah membuat game TicTacToe dengan bahasa C
+**McGee314**
 
 **Cara menghubungi saya**
 
   - muhammad.samudera.tif423@polban.ac.id
   - samuderabagja@gmail.com
 
-Testing 123
+
 <!--
 **McGee314/McGee314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
