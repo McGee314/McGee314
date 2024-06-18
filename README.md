@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Samudera</h1>
 <h3 align="center">An informatics student from Bandung</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcgee314&label=Profile%20views&color=0e75b6&style=flat" alt="mcgee314" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcgee314" alt="mcgee314" /></a> </p>
+
+- 🔭 Currently working on general tree data structure in C++ [Denmark Family Monarch](https://github.com/McGee314/SDA-TUBES)
+
+- 📫 Ways to contact me **samuderabagja@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blackchicken314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackchicken314" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samudera bagja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudera bagja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samudera-bagja-36009a2ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudera-bagja-36009a2ab" height="30" width="40" /></a>
 <a href="https://instagram.com/m.samuderaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.samuderaa" height="30" width="40" /></a>
 </p>
 
