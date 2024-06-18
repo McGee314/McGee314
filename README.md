@@ -3,10 +3,6 @@
 
 **McGee314**
 
-**Cara menghubungi saya**
-
-  - muhammad.samudera.tif423@polban.ac.id
-  - samuderabagja@gmail.com
 
 
 <!--
