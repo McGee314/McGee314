@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samudera</h1>
 <h3 align="center">An informatics student from Bandung</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcgee314&label=Profile%20views&color=0e75b6&style=flat" alt="mcgee314" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcgee314" alt="mcgee314" /></a> </p>
-
 - 🔭 Currently working on general tree data structure in C++ [Denmark Family Monarch](https://github.com/McGee314/SDA-TUBES)
 
 - 📫 Ways to contact me **samuderabagja@gmail.com**
