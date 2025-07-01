@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samudera</h1>
 <h3 align="center">An informatics student from Bandung</h3>
 
-- 🔭 Currently working on general tree data structure in C++ [Denmark Family Monarch](https://github.com/McGee314/SDA-TUBES)
 
 - 📫 Ways to contact me **samuderabagja@gmail.com**
 
